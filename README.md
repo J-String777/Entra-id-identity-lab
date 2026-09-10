@@ -42,10 +42,15 @@ Created two security groups reflecting real departmental structure:
   is how real organizations handle permissions.
 
 ### 4. Role Assignment
-[Screenshot: role assignment page]
-Assigned [role name] to [user/group].
-- Why: role-based access control (RBAC) follows least-privilege — giving 
-  only the access needed, not more.
+<img width="1709" height="763" alt="Untitled" src="https://github.com/user-attachments/assets/7a9e7794-e8b2-4ef3-b97e-504cf1ec5d38" />
+Assigned the Helpdesk Administrator role to a test user (Alex Chen) 
+instead of Global Administrator.
+- Why: This follows the principle of least privilege, giving a user 
+  only the access their actual job requires (resetting passwords, 
+  handling basic account issues) rather than full administrative 
+  control over the tenant. If that account were ever compromised, 
+  the damage an attacker could do is limited to helpdesk-level actions, 
+  not the entire environment.
 
 ## Key Takeaways
 Working through this hands-on gave me a much clearer picture of how 
