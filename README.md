@@ -48,8 +48,17 @@ Assigned [role name] to [user/group].
   only the access needed, not more.
 
 ## Key Takeaways
-- [Write 2-3 sentences in your own words about what you understood better 
-  after doing this hands-on vs. just reading about it]
+Working through this hands-on gave me a much clearer picture of how 
+identity management supports real IT/security operations — creating 
+users, assigning them to the correct group, and moving them between 
+groups when roles change are everyday tasks for an IT or security team, 
+not just abstract concepts. Being able to auto-generate secure passwords 
+rather than manually creating them also showed me how identity platforms 
+build good security practice into the workflow by default. The initial 
+setup (authenticator app, MFA) was a new experience for me as I'm not 
+deeply familiar with the Windows/Microsoft ecosystem, which was a good 
+reminder of what I still need to get comfortable with heading into 
+entry-level IT roles.
 
 ## Next Steps
 - Planning to explore Conditional Access policies and MFA enforcement
