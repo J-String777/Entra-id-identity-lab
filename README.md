@@ -23,7 +23,7 @@ organizational directory.
 ### 2. User Management
 <img width="1709" height="907" alt="Screenshot one users" src="https://github.com/user-attachments/assets/636cd6dc-0164-4bfc-b5e0-221eca295fb7" />
 
-Created 4 test users to simulate a small organization's identity structure.
+Created 7 test users to simulate a small organization's identity structure.
 - Why: understanding user provisioning is foundational to IAM — every 
   access decision starts with a verified identity.
 
