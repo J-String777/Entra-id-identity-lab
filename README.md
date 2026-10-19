@@ -67,3 +67,4 @@ entry-level IT roles.
 
 ## Next Steps
 - Planning to explore Conditional Access policies and MFA enforcement
+- Possibly revamping this project later on after my AD lab. 
