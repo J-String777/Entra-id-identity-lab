@@ -23,7 +23,7 @@ organizational directory.
 ### 2. User Management
 <img width="1709" height="907" alt="Screenshot one users" src="https://github.com/user-attachments/assets/636cd6dc-0164-4bfc-b5e0-221eca295fb7" />
 
-Created 7 test users to simulate a small organization's identity structure.
+Created 6 test users (plus my own admin account, 7 users total) to simulate a small organization's identity structure.
 - Why: understanding user provisioning is foundational to IAM — every 
   access decision starts with a verified identity.
 
@@ -37,7 +37,7 @@ Created 7 test users to simulate a small organization's identity structure.
 Created two security groups reflecting real departmental structure:
 - **IT-Support** — used for assigning IT department software licenses, 
   internal service desk application access, and core IT distribution lists.
-- **Sales-Team** — [paste whatever description you wrote for that one]
+- **Sales-Team** — Our sales team is a high-performing group of revenue drivers and relationship builders. We focus on identifying prospective clients, understanding their unique business challenges, and presenting tailored solutions that deliver clear value. From initial cold outreach and qualifying leads to running product demonstrations and closing complex deals, our team ensures a seamless onboarding experience. Post-sale, we remain dedicated partners to maximize client retention, unlock upsell opportunities, and build long-term loyalty that fuels company growth
 - Why: groups let you manage access at scale instead of per-user, which 
   is how real organizations handle permissions.
 
