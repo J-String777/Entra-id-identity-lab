@@ -28,18 +28,24 @@ Created 6 test users (plus my own admin account, 7 users total) to simulate a sm
   access decision starts with a verified identity.
 
 ### 3. Group Management
- <img width="2962" height="1642" alt="IT support group 2" src="https://github.com/user-attachments/assets/131b2ab0-3d90-404a-8c5a-65d3dfc18e3b" />
 
- <img width="1710" height="860" alt="Sales Team group 2" src="https://github.com/user-attachments/assets/37a00124-f076-483c-9d38-320382779d70" />
+<img width="2048" height="906" alt="it-support-members" src="https://github.com/user-attachments/assets/460263cc-1684-4dfa-8b8d-40b175a026bf" />
+
+<img width="2048" height="931" alt="sales-team-members" src="https://github.com/user-attachments/assets/92e2aaae-168b-4a97-aefe-1b1cfa8f3dd1" />
 
  <img width="2880" height="1892" alt="Groups Overview" src="https://github.com/user-attachments/assets/f523149e-1336-42d3-99c4-9b362bf51107" />
 
 Created two security groups reflecting real departmental structure:
-- **IT-Support** — used for assigning IT department software licenses, 
-  internal service desk application access, and core IT distribution lists.
-- **Sales-Team** — Our sales team is a high-performing group of revenue drivers and relationship builders. We focus on identifying prospective clients, understanding their unique business challenges, and presenting tailored solutions that deliver clear value. From initial cold outreach and qualifying leads to running product demonstrations and closing complex deals, our team ensures a seamless onboarding experience. Post-sale, we remain dedicated partners to maximize client retention, unlock upsell opportunities, and build long-term loyalty that fuels company growth
-- Why: groups let you manage access at scale instead of per-user, which 
-  is how real organizations handle permissions.
+
+IT-Support — used for assigning IT department software licenses, internal service desk application access, and core IT distribution lists.
+Sales-Team — Our sales team is a high-performing group of revenue drivers and relationship builders. We focus on identifying prospective clients, understanding their unique business challenges, and presenting tailored solutions that deliver clear value. From initial cold outreach and qualifying leads to running product demonstrations and closing complex deals, our team ensures a seamless onboarding experience. Post-sale, we remain dedicated partners to maximize client retention, unlock upsell opportunities, and build long-term loyalty that fuels company growth
+Why: groups let you manage access at scale instead of per-user, which is how real organizations handle permissions.
+
+Current membership (each test user is in exactly one group)
+
+IT-Support: Alex Chen, John Smith, Madison Parks, Priya Patel
+
+Sales-Team: Mike Torres, Sarah Lee
 
 ### 4. Role Assignment
 <img width="1709" height="763" alt="Untitled" src="https://github.com/user-attachments/assets/7a9e7794-e8b2-4ef3-b97e-504cf1ec5d38" />
