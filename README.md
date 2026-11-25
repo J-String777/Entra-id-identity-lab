@@ -71,5 +71,6 @@ reminder of what I still need to get comfortable with heading into
 entry-level IT roles.
 
 ## Next Steps
-- Planning to explore Conditional Access policies and MFA enforcement
-- Possibly revamping this project later on after my AD lab. 
+- Reset a test user's password as the Helpdesk Administrator account (Alex Chen) and document what that role can and can't do
+- Add a short troubleshooting log for anything that goes wrong in this lab
+- Look at MFA (multifactor authentication) through security defaults and Conditional Access if my tenant allows it
